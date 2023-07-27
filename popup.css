@@ -1,0 +1,29 @@
+body {
+    min-width: 200px;
+    max-width: 250px;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: #fff;
+    font-size: 15px;
+}
+
+button:hover {
+    border-color: #333;
+    cursor: pointer;
+    background-color: #eee;
+}
+
+button:active {
+    background: #eee;
+}
